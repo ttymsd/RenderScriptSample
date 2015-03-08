@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RenderScriptSample</string>
+    <string name="convert">変換</string>
+</resources>
